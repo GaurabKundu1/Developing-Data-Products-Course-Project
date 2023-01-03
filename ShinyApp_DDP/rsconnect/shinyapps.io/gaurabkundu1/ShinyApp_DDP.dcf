@@ -1,0 +1,13 @@
+name: ShinyApp_DDP
+title: ShinyApp_DDP
+username:
+account: gaurabkundu1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7967689
+bundleId: 6692162
+url: https://gaurabkundu1.shinyapps.io/ShinyApp_DDP/
+when: 1672731078.6725
+lastSyncTime: 1672731078.67251
+asMultiple: FALSE
+asStatic: FALSE
